@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer at Kentkart | 4th year Computer Engineer at Dokuz Eylul University</h3>
 
  
- <p>🔭 I’m currently working with **Angular & Node.js**</p>
+ <p>🔭 I’m currently working with <b>Angular & Node.js</b></p>
  <p>🌱 I'm interested in Machine Learning & Decision Support System (Using Python mostly)</p>
  
  <p>📫 Concact me **yusufokkabas@gmail.com**</p>
