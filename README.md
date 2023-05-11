@@ -5,7 +5,7 @@
  <p>🔭 I’m currently working with <b>Angular & Node.js</b></p>
  <p>🌱 I'm interested in Machine Learning & Decision Support System (Using Python mostly)</p>
  
- <p>📫 Concact me **yusufokkabas@gmail.com**</p>
+ <p>📫 Concact me yusufokkabas@gmail.com </p>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufokkabas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufokkabas/" height="30" width="40" /></a>
 </p>
