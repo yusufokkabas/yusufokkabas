@@ -2,17 +2,17 @@
 <h3 align="center">Web Developer at Kentkart | 4th year Computer Engineer at Dokuz Eylul University</h3>
 
  
- 🔭 I’m currently working with **Angular & Node.js**
- 🌱 I'm interested in Machine Learning & Decision Support System (Using Python mostly)
+ <p>🔭 I’m currently working with **Angular & Node.js**</p>
+ <p>🌱 I'm interested in Machine Learning & Decision Support System (Using Python mostly)</p>
  
- 📫 Concact me **yusufokkabas@gmail.com**
+ <p>📫 Concact me **yusufokkabas@gmail.com**</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/yusufokkabas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufokkabas/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Technologies I currently use:</h3>
 <p align="left"> 
- <a href="https://git-scm.com/" target="_blank"> <img src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="git" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />         
 <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"   width="40" height="40"/>            
