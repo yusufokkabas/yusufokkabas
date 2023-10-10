@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!, I'm Yusuf Orhan Okkabas</h1>
-<h3 align="center">Web Developer at Kentkart | 4th year Computer Engineer at Dokuz Eylul University</h3>
+<h3 align="center">Web Developer | 4th year Computer Engineer at Dokuz Eylul University</h3>
 
  
  <p>🔭 I’m currently working with <b>Angular & Node.js</b></p>
