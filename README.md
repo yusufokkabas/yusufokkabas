@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I’m a dedicated Software Developer with 2 years of hands-on experience about web development. My<br>responsibility is to develop robust, stable, flexible, high-quality software solutions for public transportation<br>systems both back-end and front-end. I am continuously improving my skills on the professional field in<br>developing both back-end and front-end solutions, including creating services, implementing Figma designs,<br>and designing software architecture.</p>
+<p align="left">Experienced Software Developer with 4 years specializing in enterprise web applications, microservices
+architecture, and RESTful API development. Proven expertise in full-stack development with Node.js,
+Angular, and React, with strong foundation in distributed systems and cloud technologies. Experienced in
+Agile methodologies, CI/CD pipelines, and providing production support. Skilled in integrating third-party
+services, debugging complex systems, and delivering high-quality software solutions that reduce processing
+times by 60-70</p>
 
 ###
 
